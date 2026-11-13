@@ -1,0 +1,3 @@
+# Copy to models.yaml and replace with verified deployment IDs, capabilities and prices.
+# Price fields are per million tokens. Null prices disable cost ranking for that field.
+models: []
